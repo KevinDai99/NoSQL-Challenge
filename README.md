@@ -2,9 +2,9 @@
 
 In this challenge, I demonstrate my ability to use MongoDB, a NoSQL database.
 
-a) I added a collection (a dataset) to my database called Establishments
-b) Though PyMongo and python I appended, updated, and converted data types my collection.
-c) Finally, I ran some queries to answer some basic questions such as:
+* I added a collection (a dataset) to my database called Establishments
+* Though PyMongo and python I appended, updated, and converted data types my collection.
+* Finally, I ran some queries to answer some basic questions such as:
 
 1. Which establishments have a hygiene score equal to 20?
 2. Which establishments in London have a RatingValue greater than or equal to 4?
